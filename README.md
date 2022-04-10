@@ -12,7 +12,7 @@ In the command terminal, run the following commands:
 
 ``` bash
 
-$ git clone https://github.com/ambrosethebuild/online-banking.git Online-banking
+
 $ cd Online-banking/
 $ composer install
 $ php artisan migrate
@@ -36,15 +36,5 @@ $ php artisan migrate
 ```
 
 
-## Credits
 
-Ambrose Bako
-
-Don't forget to follow me on twitter @bakoambrose
-
-❤️❤️❤️ 
-
-## License
-
-The MIT License (MIT).
 
